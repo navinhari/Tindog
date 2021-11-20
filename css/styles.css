@@ -121,7 +121,7 @@ font-family:"Montserrat" ;
     padding:2% 4%;
     
 }
-@media (max-width:975px){
+@media (max-width:992px){
     .img{
 position: static;
 transform:rotate(0);
